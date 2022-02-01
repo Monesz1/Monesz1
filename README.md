@@ -2,16 +2,18 @@
 </h1>
 
 <p align="center">  I’m a <b>software developer</b> currently living in Budapest,Hungary. I enjoy building everything from small business sites to rich interactive mobile apps or web apps. If you are a business seeking a web presence or an employer looking to hire, get in touch with me.</p>
+
+<!---Contact me part--->
+
 <p align="center">
- <a href="https://oriash.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-00457C?logo=vercel&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://oriash.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-00457C?logo=vercel&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://hu.linkedin.com/in/atimolnarati" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://twitter.com/AttilaM71564834" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://twitter.com/AttilaM71564834" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center" /></a> <a href="mailto:assooulysse@gmail.com" alt="Mail Link"><img alt="" src="https://img.shields.io/badge/Contact Me-EA4335?logo=gmail&logoColor=FFFFFF" style="vertical-align:center" /></a>
 </p>
 
 ## Tech Stack 💻
 #### Languages
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
- <img src="https://img.shields.io/badge/Java-D0A384?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Shell scripting-007ACC?style=for-the-badge&logo=bash&logoColor=white">  <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Java-DCDCDC?style=for-the-badge&logo=java&logoColor=blue"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">  <img src="https://img.shields.io/badge/Shell scripting-007ACC?style=for-the-badge&logo=bash&logoColor=white">  <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white">
  
  #### Databases:
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/NoSQL-7FFFD4?style=for-the-badge&logo=nosql&logoColor=white">  <img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white">
@@ -27,5 +29,8 @@
 ![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
  
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monesz1&layout=compact&langs_count=7&theme=tokyonight"/>
+ <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monesz1&layout=compact&langs_count=7&theme=tokyonight"/></p>
 </div>
+
+
