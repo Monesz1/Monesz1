@@ -1,15 +1,19 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> my name is Attila Molnár </br> 
 </h1>
 
-<p align="center">  I’m a <b>software developer</b> currently living in Budapest,Hungary. I enjoy building everything from small business sites to rich interactive mobile apps or web apps. If you are a business seeking a web presence or an employer looking to hire, get in touch with me.</p>
+<img align="left" src="https://api.daily.dev/devcards/1cf8bad0f6a34b8da97706760cd68869.png?r=dao" width="200" alt="Molnar Attila's Dev Card"/>
+<br><br><br><br>
+<p align="left">  I’m a <b>software developer</b> currently living in Budapest,Hungary. I enjoy building everything from small business sites to rich interactive mobile apps or web apps. If you are a business seeking a web presence or an employer looking to hire, get in touch with me.</p>
 
-<!---Contact me part--->
-
-<p align="center">
+<p align="left">
 <a href="https://oriash.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-00457C?logo=vercel&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://hu.linkedin.com/in/atimolnarati" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://twitter.com/AttilaM71564834" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center" /></a> <a href="mailto:assooulysse@gmail.com" alt="Mail Link"><img alt="" src="https://img.shields.io/badge/Contact Me-EA4335?logo=gmail&logoColor=FFFFFF" style="vertical-align:center" /></a>
 </p>
+
+<br clear="left"/>
+<!---Contact me part--->
+
 
 ## Tech Stack 💻
 #### Languages
