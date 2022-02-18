@@ -31,6 +31,9 @@
  #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
+
+#### Legacy Systems
+<img src="https://img.shields.io/badge/NaturalAdabas-1e7d37?style=for-the-badge&logo=NaturalAdabas&logoColor=white"> <img src="https://img.shields.io/badge/COBOL-ff1100?style=for-the-badge&logo=COBOL&logoColor=white">
  
  <div>
  <p align="center">
