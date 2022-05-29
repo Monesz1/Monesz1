@@ -11,7 +11,7 @@
 <!---Linkedin--->
 <a href="https://hu.linkedin.com/in/atimolnarati" target="_blank"><img alt="LinkedÍIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
 <!---Twitter--->
-<a href="https://twitter.com/AttilaM71564834" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="vertical-align:center" />
+<a href="https://twitter.com/atimolnarati" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="vertical-align:center" />
 <!---Gmail--->
 </a> <a href="mailto:atimolnarati@gmail.com" alt="Mail Link"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 <!---Hackerrank--->
