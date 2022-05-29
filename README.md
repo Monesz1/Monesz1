@@ -2,15 +2,25 @@
 </h1>
 
 <img align="left" src="https://api.daily.dev/devcards/1cf8bad0f6a34b8da97706760cd68869.png?r=dao" width="200" alt="Molnar Attila's Dev Card"/>
-<br><br><br><br>
-<p align="left">  I’m a <b>software developer</b> currently living in Budapest,Hungary. I enjoy building everything from small business sites to rich interactive mobile apps or web apps. If you are a business seeking a web presence or an employer looking to hire, get in touch with me.</p>
+<br>
+<h3 align="left">I’m enthusiastic about new technology, what makes our life easier every day. I think automation is an ever-present engine in various fields. I enjoy building everything from small business sites to rich interactive mobile apps or web apps. If you are a business seeking a web presence or an employer looking to hire, get in touch with me.</h3>
 
 <p align="left">
-<a href="https://oriash.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-00457C?logo=vercel&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://hu.linkedin.com/in/atimolnarati" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-00457C?logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://twitter.com/AttilaM71564834" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center" /></a> <a href="mailto:assooulysse@gmail.com" alt="Mail Link"><img alt="" src="https://img.shields.io/badge/Contact Me-EA4335?logo=gmail&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<!---Portfolio--->
+<a href="https://oriash.com/" target="_blank"><img alt="PortfolioPage" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<!---Linkedin--->
+<a href="https://hu.linkedin.com/in/atimolnarati" target="_blank"><img alt="LinkedÍIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
+<!---Twitter--->
+<a href="https://twitter.com/AttilaM71564834" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="vertical-align:center" />
+<!---Gmail--->
+</a> <a href="mailto:atimolnarati@gmail.com" alt="Mail Link"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
+<!---Hackerrank--->
+<a href="https://www.hackerrank.com/atimolnarati" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="vertical-align:center" />
+<!---TestAutomationUniversity--->
+<a href="https://testautomationu.applitools.com/me.html#atimolnarati" target="_blank"><img alt="TestAutomationUniversity" src="https://img.shields.io/badge/TestAutomationUniversity-87CEEB?style=for-the-badge&logo=TestAutomationUniversity&logoColor=white" style="vertical-align:center" />
+<!---View counter--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Monesz1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Monesz1" /> </p>
 </p>
-
 <br clear="left"/>
 <!---Contact me part--->
 
@@ -36,8 +46,6 @@
 <img src="https://img.shields.io/badge/NaturalAdabas-1e7d37?style=for-the-badge&logo=NaturalAdabas&logoColor=white"> <img src="https://img.shields.io/badge/COBOL-ff1100?style=for-the-badge&logo=COBOL&logoColor=white">
  
  <div>
- <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monesz1&layout=compact&langs_count=7&theme=tokyonight"/></p>
+ <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monesz1"/></p>
 </div>
-
-
