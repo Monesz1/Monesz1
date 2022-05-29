@@ -16,7 +16,7 @@
 <!---TestAutomationUniversity--->
 <a href="https://testautomationu.applitools.com/me.html#atimolnarati" target="_blank"><img alt="TestAutomationUniversity" src="https://img.shields.io/badge/TestAutomationUniversity-87CEEB?style=for-the-badge&logo=TestAutomationUniversity&logoColor=white" style="vertical-align:center" />
 <!---View counter--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Monesz1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Monesz1" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Monesz1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Monesz1" />
 </p>
 <br clear="left"/>
 <!---Contact me part--->
