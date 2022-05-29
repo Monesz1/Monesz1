@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> my name is Attila Molnár </br> 
 </h1>
 
-<img align="left" src="https://api.daily.dev/devcards/1cf8bad0f6a34b8da97706760cd68869.png?r=dao" width="200" alt="Molnar Attila's Dev Card"/>
+<img align="left" src="https://api.daily.dev/devcards/1cf8bad0f6a34b8da97706760cd68869.png?r=0nr" width="200" alt="Molnar Attila's Dev Card"/>
 <br>
 <h3 align="left">I’m enthusiastic about new technology, what makes our life easier every day. I think automation is an ever-present engine in various fields. I enjoy building everything from small business sites to rich interactive mobile apps or web apps. If you are a business seeking a web presence or an employer looking to hire, get in touch with me.</h3>
 
