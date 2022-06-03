@@ -3,7 +3,7 @@
 <h3 align="left">I’m enthusiastic about new technology, what makes our life easier every day. I think automation is an ever-present engine in various fields. I enjoy building everything from small business sites to rich interactive mobile apps or web apps. If you are a business seeking a web presence or an employer looking to hire, get in touch with me.</h3>
 <p align="left">
 <!---Portfolio--->
-<a href="https://oriash.com/" target="_blank"><img alt="PortfolioPage" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://www.atimolnarati.com/" target="_blank"><img alt="PortfolioPage" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <!---Linkedin--->
 <a href="https://hu.linkedin.com/in/atimolnarati" target="_blank"><img alt="LinkedÍIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
 <!---Twitter--->
