@@ -1,6 +1,7 @@
 <img align="left" src="https://api.daily.dev/devcards/1cf8bad0f6a34b8da97706760cd68869.png?r=but" width="200" alt="Molnar Attila's Dev Card"/>
 <h2 align="left"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px"> my name is Attila Molnár </h2>
-<h3 align="left">I’m enthusiastic about new technology, what makes our life easier every day. I think, automation is an ever-present engine in various fields. I enjoy building everything from small business sites to rich interactive mobile apps or web apps. If you are a business seeking a web presence or an employer looking to hire, get in touch with me.</h3>
+<h3 align="left">I’m enthusiastic about new technology, what makes our life easier every day. I think, automation is an ever-present engine in various fields. I enjoy
+building applications that solve problems for small businesses and to work in agile team to deliver quality software solutions using Java, Javascript. Experienced in     test automation and Selenium development. If you are a business seeking a web presence or an employer looking to hire, get in touch with me.</h3>
 <p align="left">
 <!---Portfolio--->
 <a href="https://www.atimolnarati.com/" target="_blank"><img alt="PortfolioPage" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
